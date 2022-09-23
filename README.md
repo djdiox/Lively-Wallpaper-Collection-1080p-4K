@@ -30,6 +30,6 @@ ________________________________________________________________
 
 ![Waves](./angkorwat.jpg)
 ________________________________________________________________
-![Waves](./angkorwat.jpg.gif)
+![Waves](./angkorwat.gif)
 
 [Download for Lively](https://github.com/djdiox/Lively-Wallpaper-Collection-1080p-4K/raw/main/1080p-Angkor%20Wat%20%231.zip)
