@@ -1,7 +1,14 @@
 # Lively-Wallpaper-Collection-1080p-4K
 
-This collection can be Imported in [Lively Wallpaer for Windows](https://www.microsoft.com/store/productId/9NTM2QC6QWS7)
 ![Lively](https://rocksdanister.github.io/lively/images/logo.png)
+
+This collection can be Imported in [Lively Wallpaer for Windows](https://rocksdanister.github.io/lively/#intro)
+
+
+[![Download from Microsoft Store](https://getbadgecdn.azureedge.net/images/en-us%20dark.svg)](https://www.microsoft.com/store/productId/9NTM2QC6QWS7)
+
+[![Download from Link](./download.png)](https://github.com/rocksdanister/lively/releases/download/v2.0.3.2/lively_setup_x86_full_v2032.exe)
+
 ## Waves 4K
 
 ![Waves](./waves.jpg)
